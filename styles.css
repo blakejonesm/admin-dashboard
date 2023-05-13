@@ -5,7 +5,8 @@
   font-family: 'Roboto', 'sans-serif';
 }
 
-.svg, .bell-img, .user-profile {
+.svg, .bell-img, .user-profile, 
+.img-icon {
   height: 2rem;
   width: 2rem;
 }
