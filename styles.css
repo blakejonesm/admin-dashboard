@@ -4,3 +4,8 @@
   /* border: 1px solid red; */
   font-family: 'Roboto', 'sans-serif';
 }
+
+.svg, .bell-img, .user-profile {
+  height: 2rem;
+  width: 2rem;
+}
